@@ -112,7 +112,7 @@ projects:
     subdir: contrib
     version: '2.12'
   simplenews:
-    subdir: contrib/simplenews-7.x-1.1
+    subdir: contrib
     version: '1.1'
   smart_trim:
     subdir: contrib
@@ -134,18 +134,6 @@ projects:
     version: '4.12'
   adminimal_theme:
     version: '1.24'
-  ariva_demo:
-    type: module
-    custom_download: true
-  awe_themer:
-    type: module
-    custom_download: true
-  awe_twitter:
-    type: module
-    custom_download: true
-  md_awecontent:
-    type: module
-    custom_download: true
   fontyourface:
     type: module
     'download][type': git
@@ -155,27 +143,4 @@ projects:
   field_color:
     type: module
     custom_download: true
-  md_ac_ariva:
-    type: module
-    custom_download: true
-  md_block_custom:
-    type: module
-    custom_download: true
-  md_field:
-    type: module
-    custom_download: true
-  md_flick_twitter:
-    type: module
-    custom_download: true
-  awe_media:
-    type: module
-    custom_download: true
-  md_themesetting:
-    type: module
-    custom_download: true
-  md_themesite:
-    type: module
-    custom_download: true
-  md_ariva:
-    type: theme
-    custom_download: true
+  
