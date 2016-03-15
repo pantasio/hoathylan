@@ -75,12 +75,6 @@ projects:
   jquery_update:
     subdir: contrib
     version: '2.7'
-  md_fullscreen_slider:
-    location: 'http://updates.megadrupal.com/release-history'
-    type: module
-    custom_download: true
-    subdir: custom
-    version: '2.3'
   media:
     subdir: contrib
     version: 2.0-beta1
@@ -135,12 +129,5 @@ projects:
   adminimal_theme:
     version: '1.24'
   fontyourface:
-    type: module
-    'download][type': git
-    'download][url': 'https://git.drupal.org/project/fontyourface.git'
-    'download][branch': 7.x-2.x
-    'download][revision': a86086aaa45a8fcda1aa84d1afa4eb9b603893a9
-  field_color:
-    type: module
-    custom_download: true
-  
+    subdir: contrib
+    version: '2.8'
